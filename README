@@ -1,4 +1,4 @@
-A template/tutorial for how to get (and refresh) a cookie with selenium in python, so a script can make calls to a public API through requestsA template/tutorial for how to get (and refresh) a cookie with selenium in python, so a script can make calls to a public API through requests
+A template/tutorial for how to get (and refresh) a cookie with selenium in python, so a script can make calls to a public API through requests. Prints out the first 10 billionaire's place of employment.
 
 Why? - It's ideal to not scrape a front end and instead intercept API requests. For this, you usually need cookies to trick the server into thinking you've actually been on the site.
 
