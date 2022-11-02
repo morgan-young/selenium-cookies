@@ -1,0 +1,3 @@
+This is a local template that runs chrome and the chromedriver version as close as I can find to the rpa-serverles-template.
+
+This should be used for local dev and debugging of any bots that use that template.
